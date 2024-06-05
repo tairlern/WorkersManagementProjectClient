@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "primary": "workers-manegment",
+    "default": "workers-manegment"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
